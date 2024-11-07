@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "672c3266d73c857fe8956b91_ed0719e9-0bd0-458b-95b0-26050affbba0",
+  "id": "Page2_nullish",
+  "unpublishedCollection": {
+    "name": "nullish",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
