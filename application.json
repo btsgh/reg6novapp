@@ -18,8 +18,16 @@
   "icon": "smartphone",
   "pages": [
     {
-      "id": "Page1",
+      "id": "fire",
       "isDefault": true
+    },
+    {
+      "id": "Gsheet",
+      "isDefault": false
+    },
+    {
+      "id": "snow",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
