@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "672c3266d73c857fe8956b91_b6cabfc3-cc2f-4ab0-87ca-dcc6b13c22d9",
-  "id": "Page1_Api4",
+  "gitSyncId": "672c3266d73c857fe8956b91_203933f3-72d8-49aa-aaf6-534d0a3a7c58",
+  "id": "First page_Api3",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
   "unpublishedAction": {
@@ -11,17 +11,17 @@
           "value": "application/json"
         }
       ],
-      "body": "{\n    \"name\": \"morpheus\",\n    \"job\": \"zion resident\"\n}",
+      "body": "{\n    \"name\": \"morpheus\",\n    \"job\": \"leader\"\n}",
       "bodyFormData": [],
       "encodeParamsToggle": true,
       "formData": {
-        "apiContentType": "application/json"
+        "apiContentType": "none"
       },
       "headers": [],
-      "httpMethod": "PUT",
+      "httpMethod": "POST",
       "httpVersion": "HTTP11",
       "paginationType": "NONE",
-      "path": "/api/users/2",
+      "path": "/api/users",
       "pluginSpecifiedTemplates": [
         {
           "value": true
@@ -41,8 +41,8 @@
     },
     "dynamicBindingPathList": [],
     "executeOnLoad": false,
-    "name": "Api4",
-    "pageId": "Page1",
+    "name": "Api3",
+    "pageId": "First page",
     "userSetOnLoad": false
   }
 }

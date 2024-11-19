@@ -1,6 +1,6 @@
 {
   "gitSyncId": "672c3266d73c857fe8956b91_83a57a37-af9e-4105-89f4-64c6083d2a2b",
-  "id": "Page1_Api2",
+  "id": "First page_Api2",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
   "unpublishedAction": {
@@ -42,7 +42,7 @@
     "dynamicBindingPathList": [],
     "executeOnLoad": false,
     "name": "Api2",
-    "pageId": "Page1",
+    "pageId": "First page",
     "userSetOnLoad": false
   }
 }
