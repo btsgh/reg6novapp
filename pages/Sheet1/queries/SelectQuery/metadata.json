@@ -155,9 +155,9 @@
       "name": "GoogleSheetsRWDSelected",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": true,
     "name": "SelectQuery",
     "pageId": "Sheet1",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }

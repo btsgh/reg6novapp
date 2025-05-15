@@ -121,9 +121,9 @@
       "name": "GoogleSheetsRWDSelected",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": false,
     "name": "InsertQuery",
     "pageId": "Sheet1",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

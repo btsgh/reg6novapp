@@ -136,9 +136,9 @@
       "name": "GoogleSheetsRWDSelected",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": false,
     "name": "DeleteQuery",
     "pageId": "Sheet1",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
