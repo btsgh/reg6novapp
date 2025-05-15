@@ -40,9 +40,9 @@
       "pluginId": "restapi-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "Api4",
     "pageId": "Page1",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
